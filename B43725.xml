@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the restoring the silver money of England to its former state.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43725</idno><idno type="EEBO-CITATION">767618619</idno>
+  <idno type="VID">212632</idno>
+  <idno type="EEBO-PROQUEST">2264206282</idno>
+  
+            <idno type="OCLC"> 767618619</idno>
+            <idno type="OCLC">ocn 767618619</idno>
+            <idno type="STC">Wing P3751</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212632)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3023:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the restoring the silver money of England to its former state.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Cumberland at the Angel in St. Pauls Church Yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: folded and stained.</note>
+                  <note>Reproduction of original in: Columbia University Library (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Currency question --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Money --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212632:1"/>
+            <pb facs="tcp:212632:2"/>
+            <head>
+               <hi>PROPOSALS</hi> for the Restoring the Silver Money of <hi>England</hi> to its former <hi>STATE.</hi>
+            </head>
+            <p>THE necessity of this is so visible to all sorts of Men, that it were lost Labour to endeavour to prove it; all the Difficulty being in finding a way to effect it. Several have attempted this by various methods, which when they come to be considered, prove either very hard to be brought into Act, or very full of Hazard.</p>
+            <p>No Man can tell certainly what the Quantity of the current Silver Quoin of <hi>England</hi> is, how much of it is melted down, lost, transported, <hi>&amp;c.</hi> or Clip'd, but by an ill grounded conjecture which will certainly prove false when it comes to be tried. Nor can any Man be sure how much counterfeit and base Money we have mixed with the Sterling Money; so that what ever is given to make good the loss to the Nation, will be found too much or too little, and difficult to be raised.</p>
+            <p>The <hi>Scots</hi> in the mean time have shewen us a ready and a certain way to do it, <hi>viz.</hi> the ordering all Silver Money to go by weight at 5 <hi>s.</hi> the Ounce, two pence bated; and leaving the loss upon those in whose hands the <hi>Silver Money</hi> shall be found at the passing this Order.</p>
+            <p>This I humbly conceive may best be done by a <hi>Proclamation,</hi> founded upon a Vote of the <hi>Lords</hi> and <hi>Commons,</hi> and the statute of <hi>Henry</hi> 7th. against clip'd <hi>Money,</hi> to take place from the Day of the Date of the said <hi>Proclamation.</hi>
+            </p>
+            <p>But then it may be needfull, all Contracts and Debts agreed before the <hi>Proclamation,</hi> shall either be made payable in <hi>Gold</hi> at Thirty Shillings to the Guinea, or in Silver by Tale and not by Weight, and such as was then usually taken in all Payments.</p>
+            <p>All Bargains after the <hi>Proclamation</hi> to be understood of <hi>Silver</hi> by Weight, or of <hi>Gold</hi> ac<g ref="char:EOLhyphen"/>cording to value in the last Section.</p>
+            <p>The First good effect of this will be the putting a full and effectual stop to the <hi>Cliping Trade</hi> hereafter; for there will not be one Farthing to be gained by it.</p>
+            <p>The Second will be the bringing out all the good <hi>silver Money</hi> in the Nation, which is now hoarded up, and will be kept in as long as the <hi>clip'd Money</hi> go; being in intrinsick va<g ref="char:EOLhyphen"/>lue very near one half better than the <hi>clipped Money.</hi>
+            </p>
+            <p>The Third is, The bringing all the clip'd and counterfeit <hi>Money</hi> to the Tower to be there Examined and Reminted.</p>
+            <p>The trouble of Weighing and Examining the old clip'd <hi>Money</hi> being so great, that all men that have any quantity, will immediately melt it down and send it to the Mint.</p>
+            <p>But then this is to be understood only of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Money,</hi> for that which has been milled in the two last Reigns, is supposed still to go by Tale and not by Weight.</p>
+            <p>All the clip'd Money that is Sterling, being thus Reminted, the base Money may also be brought to the <hi>Tower,</hi> and there be reduced to a Standard of 4 <hi>s.</hi> in the Ounce more or less, and then be minted into <hi>Groats, Three Pence</hi> and <hi>Two Pences</hi> for common use, and so perhaps may be as usefull to the Nation as the other Money; provided no Man be compellable to take a<g ref="char:EOLhyphen"/>bove 5 <hi>s.</hi> of it in any one single payment. There may many Objections be made against this method of Reducing the Silver Money of <hi>England</hi> to its former State.</p>
+            <p n="1">1. Men pretend many men will be undone by it; to which I answer, very few can ex<g ref="char:EOLhyphen"/>cept those that were in an ill state before, few men having so much silver Money by them, that the loss of one half of it will undo them; and yet they are helped too by being enabled to pay their old Debts by Tale and not by Weight.</p>
+            <p n="2">2. The next is, The Nobility and Gentry will not lose so much by it, as the <hi>Bankers, Gold<g ref="char:EOLhyphen"/>smiths</hi> and <hi>Tradesmen,</hi> because they are supposed not to keep so much ready Money by them as the others. Now this at worst, is but returning the loss upon them, that have been the cause of bringing it upon the Nation for their own profit; and if a way could be found out in justice they ought to bear the whole loss. But still, there will be no man in the Nation, to a day Labourer, but will bear his share in it, and so equally to that, perhaps the wit of Man cannot invent so equal a way of distributing the loss, as this by any other Method.</p>
+            <p n="3">3. Is the stop of Trade: But if <hi>Gold</hi> be at the same time fixed for some time at the same price it now commonly goes, all the great Payments will be made in <hi>Gold</hi> as now they are; and this I think out to be done till all the old Money is Reminted.</p>
+            <p n="4">4. The great Objection is, That there will not be Money enough in the <hi>Nation</hi> to cary on our <hi>Trade</hi> and to maintain the <hi>War.</hi> Now suppose there is fix Millions of <hi>silver money</hi> in the <hi>Nation,</hi> and that one half of it is cliped away and corrupt Money, so that when it is melted down, it will make but 3 Millions of good Money. I say, these 3 Millions of good Money will go further than six (such as it now is) when there is no cliped Money to pass but by Weight, for according to the scarcity, so will the circulation be very Quick or rather Rapid; where as when there is a great plenty, much of it must of necessity stagnate or lie still.</p>
+            <p>The <hi>Gold</hi> will help the want of <hi>Silver,</hi> as I said in my answer to the 3d. Objection.</p>
+            <pb facs="tcp:212632:3"/>
+            <p>
+               <hi>Bullion</hi> is now 6 <hi>s.</hi> the Ounce or upwards, but then the Reason is the clip'd Money, for there is no doubt but it may be brought with milled money at 2 <hi>d.</hi> the Ounce advance and perhaps less.</p>
+            <p>When men come to be pressed with the want of Money to drive on their <hi>Trade,</hi> they will certainly take care to mint all the <hi>Bullion</hi> and <hi>Plate</hi> they can spare, and especially if they can buy cheaper for <hi>Silver</hi> than for <hi>Gold,</hi> as may be supposed here.</p>
+            <p n="5">5. Some pretend all our Money, when it is once <hi>Mill'd,</hi> will be melted down, or carried out of the Nation. <hi>Answ.</hi> If the <hi>Money</hi> that go be some of it clip'd, and the rest not; then all the good <hi>Milled Money</hi> will be carried away, or melted down, or hoarded up: But if there be none but such, then there will not be any thing gaiued by the melting or transporting it, because the full value of it must be paid for it in <hi>Money</hi> or <hi>Goods,</hi> whereas now a <hi>Five shilling milled piece</hi> may be had for six <hi>clipp'd shillings</hi> that weigh not above half that piece.</p>
+            <p>As long as the <hi>Money</hi> stand thus, all the Gentry and Nobility of the Nation lose one third or fourth part of their Estates, and it is growing so, that this loss is very near equal to the Land Tax they pay; and it may be worth the while to consider how long we are able to bear this, <hi>viz.</hi> To pay 4 shillings in the Pound to the Charges of the War, and lose as much by the bad<g ref="char:EOLhyphen"/>ness of our <hi>Money,</hi> for any Man shall buy Cheaper with <hi>Milled</hi> than with <hi>clipp'd Money.</hi>
+            </p>
+            <p>The War being managed Abroad where our <hi>clipp'd Money</hi> will not go by Tale, and his Ma<g ref="char:EOLhyphen"/>jesty having none but such paid into the <hi>Exchequer,</hi> he must by consequence have one, two or three Millions, more or less, to equal that loss: And if the <hi>Money</hi> be not reduced to the former state before the <hi>Money</hi> be granted for the next Campaign, there must be so much the more granted to equal the loss; And if after it is granted the <hi>Money</hi> is reduced in this next Session of Parliament, then so much less will serve: Yet men are as much started at the noise of 6, 7 or 8 Millions of clipped, as of unclipped <hi>Money,</hi> tho' the latter is double in value and effect to the former. So that it may seem but reasonable, this should be the first thing that is taken into consideration and settled.</p>
+            <p>The mischief is still growing, and the <hi>Money</hi> is every day made worse than it was before, both in quantity and quality, and the difficulties that attend the Redress grow as the mischief grow: So that it is the interest of every good man in the <hi>Nation,</hi> that it should be forth<g ref="char:EOLhyphen"/>with done.</p>
+            <p>All other methods that I have seen are more slow, more difficult and not certain to effect the cure; whereas this will most certainly put an end to the <hi>Clipping Trade,</hi> and in a short time after, reduce the <hi>Money</hi> of <hi>England</hi> to what it was before it was either Clipped or Cor<g ref="char:EOLhyphen"/>rupted with mixed Mettalls.</p>
+            <p>If the putting the whole loss upon the present Possessors of the silver <hi>Money</hi> of <hi>England</hi> that is Clipt be thought too severe, then I humbly conceive, that however it is absolutely neces<g ref="char:EOLhyphen"/>sary that all the <hi>Clipt Money</hi> should be ordered to go by Weight to prevent the Cliping any more, and that what is brought into the <hi>Tower</hi> to be Reminted, should be there Registred both as to the Tale and Weight, and the person that brought it in, to the intent that the Par<g ref="char:EOLhyphen"/>liament in another Session may have a full and clear prospect what the loss is, and thereupon shall make such allowance for the same, as shall then be thought fit.</p>
+            <p>And it is most certain, what allowance soever is made will fall mostly to the advantage of the <hi>Richer Men;</hi> because all those that have small summs will not be able to bring it to the Mint, and consequently must take what they can git for the same of the <hi>Bankers</hi> and other <hi>Rich Men,</hi> who will make the utmost Advantage they can of the Publick, by making the loss appear as great as they can.</p>
+            <p>The Limiting a certain day, beyond which no <hi>clipt Money</hi> shall pass by Weight, will hasten the reminting of it, and the allowing men a liberty to Weigh as well as tell their Money, will prevent all Clipping for the Future, when it shall be necessary for those that put it off, to make good all that is wanting to the Receiver from time to time. This is on a Supposall, all that what is not milled be allowed to pass current by Tale, if it be not Clipped, or a lit<g ref="char:EOLhyphen"/>tle Clipped.</p>
+            <p>But if the loss be at last made good to the present Possessors of the Clipt Money, then will the Bankers of <hi>England</hi> Clip all the Old Money they can git into their Hands, because they shall have the Benefit of the Cliping it, and also receive from the Nation as much as they can Damnify the Money before it is Reminted; but if the loss be put upon the present Possessors, then the Cliping of Money will immediately cease for Ever.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Cumberland</hi> at the <hi>Angel</hi> in St. <hi>Pauls Church Yard,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
